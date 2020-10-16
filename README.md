@@ -1,3 +1,4 @@
+
 # Driver-Drowsiness-Detection-System
 
 Now a days every one know about increasing the rate of road accident . Taxi drivers, bus drivers, truck drivers and people traveling long-distance suffer from lack of sleep .The majority of accidents happen due to the drowsiness of the driver So, to prevent these accidents we will build a system using Python, OpenCV, and Keras . which will alert the driver when he feels sleepy . It also Help to alert the passenger to know either driver is sleeping or not .
