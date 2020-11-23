@@ -20,7 +20,7 @@ global saying
 def detect():
     #this is for sound 
     pygame.init()
-    song = pygame.mixer.Sound('alarm.wav')
+    song = pygame.mixer.Sound('alert.wav')
 
     # alarm_status = False
     # alarm_status2 = False
